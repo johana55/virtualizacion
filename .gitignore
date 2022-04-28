@@ -1,2 +1,4 @@
-#
+
 xenial-server-cloudimg-amd64-disk1.img
+terraform.tfstate
+terraform.tfstate.backup
